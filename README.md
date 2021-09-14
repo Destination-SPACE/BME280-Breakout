@@ -4,3 +4,8 @@ This breakout board is for the Bosch BME280 digital humidity, pressure, and temp
 Requires symbols and footprintsa from DS global library
 
 ![](https://github.com/Destination-SPACE/BME280-Breakout-v2/blob/main/bme280Breakout.jpg)
+
+# License
+Licensed under the CERN OHLv2 - [Permissive](https://github.com/Destination-SPACE/BME280-Breakout-v2/blob/main/LICENSE) or as referenced.
+
+(c) Destination SPACE Inc. 2021
