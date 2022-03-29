@@ -5,6 +5,17 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "BME280 Breakout Board")
+    (date "2022-03-29")
+    (rev "04")
+    (company "Destination SPACE Inc.")
+    (comment 1 "Drawn by: Austin Gleydura")
+    (comment 2 "STATUS: COMPLETE")
+    (comment 3 "(c) Destination SPACE Inc. 2022")
+    (comment 4 "Licensed under CERN OHLv2 - Permissive")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)

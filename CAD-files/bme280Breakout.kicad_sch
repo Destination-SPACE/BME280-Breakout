@@ -6,12 +6,12 @@
 
   (title_block
     (title "BME280 Breakout Board")
-    (date "2021-10-10")
-    (rev "03")
+    (date "2022-03-29")
+    (rev "04")
     (company "Destination SPACE Inc.")
     (comment 1 "Drawn by: Austin Gleydura")
-    (comment 2 "Status: PROTOTYPE")
-    (comment 3 "(c) Destination SPACE Inc. 2021")
+    (comment 2 "Status: COMPLETE")
+    (comment 3 "(c) Destination SPACE Inc. 2022")
     (comment 4 "Licensed under CERN OHLv2 - Permissive")
   )
 
