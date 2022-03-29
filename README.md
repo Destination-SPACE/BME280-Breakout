@@ -8,4 +8,4 @@ Requires symbols and footprints from [DS Global Library](https://github.com/Dest
 # License
 Licensed under the CERN OHLv2 - [Permissive](https://github.com/Destination-SPACE/BME280-Breakout-v2/blob/main/LICENSE) or as referenced.
 
-(c) Destination SPACE Inc. 2021
+(c) Destination SPACE Inc. 2022
