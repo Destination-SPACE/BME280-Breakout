@@ -1,5 +1,5 @@
 # BME280-Breakout
-This breakout board is for the Bosch BME280 digital humidity, pressure, and tempreture sensor. This board has a default I2C address of 0x77 and is **3.3V only**.
+This breakout board is for the Bosch BME280 digital humidity, pressure, and temperature sensor. This board has a default I2C address of 0x77 and is **3.3V only**.
 
 Requires symbols and footprints from [DS Global Library](https://github.com/Destination-SPACE/DS-KiCad-Global-Source)
 
